@@ -6,5 +6,5 @@ def reserve(n):
      return n
 
 
-a = [[1, 2], [3, 4], [5, 6, 7]]
-print(reserve(a))
+b = [[1, 2], [3, 4], [5, 6, 7]]
+print(reserve(b))
